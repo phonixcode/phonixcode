@@ -14,3 +14,6 @@ Full-stack software engineer with powerful skills and relevant experience, colla
 
 <p align="left"> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,py,django,html,cs,js,react,vue,redux,jquery,bootstrap,mysql,firebase" /></a></p>
 
+## Profile Visitors
+
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=phonixcode.phonixcode)
