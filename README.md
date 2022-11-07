@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me 
+
+- Hi 👋, I’m Qudus Oyetola (@phonixcode) A Full Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js PHP, Laravel...
+- 🌱 I’m currently learning Python , Django
+- 👀 I’m interested in solving problems using technology.
+- 🌱 I’m currently learning Python, Django, Vue.js, React.
+- 💞️ I’m looking to collaborate on Laravel, Vue.js, python, Django.
+- 📫 You can reach me on qudusoyetola@gmail.com
 
 <!--
 **phonixcode/phonixcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
