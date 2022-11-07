@@ -1,6 +1,9 @@
+<h1 align="center"> Hi 👋, I’m Qudus Oyetola (@phonixcode)</h1>
+
 ### About Me 
 
-- Hi 👋, I’m Qudus Oyetola (@phonixcode) A Full Stack Web Developer with honed skills in HTML, CSS, jQuery, Vue.js PHP, Laravel...
+Full-stack software engineer with powerful skills and relevant experience, collaborating with teams to provide digital solutions to business problems.
+
 - 🌱 I’m currently learning Python , Django
 - 👀 I’m interested in solving problems using technology.
 - 🌱 I’m currently learning Python, Django, Vue.js, React.
