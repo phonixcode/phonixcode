@@ -12,5 +12,5 @@ Full-stack software engineer with powerful skills and relevant experience, colla
 
 ## 🗂️ Languages and Tools
 
-<p align="left"> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,py" /></a></p>
+<p align="left"> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,py,django,html,cs,js,react,vue,jquery" /></a></p>
 
