@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I’m Qudus Oyetola (@phonixcode)</h1>
+<h1 align="center"> Hi 👋, I’m Qudus (@phonixcode)</h1>
 
 ### About Me 
 
