@@ -6,7 +6,7 @@ Full-stack software engineer with strong skills and relevant experience, collabo
 
 - 🌱 I’m currently learning Python , Django
 - 👀 I’m interested in solving problems using technology.
-- 💞️ I’m looking to collaborate on Laravel, Vue.js, python, Django.
+- 💞️ I’m looking to collaborate on Laravel, React, Vue.js, python, Django.
 - 📫 You can reach me on qudusoyetola@gmail.com
 
 ## 🗂️ Languages and Tools
